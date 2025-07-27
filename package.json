@@ -97,7 +97,7 @@
     "@skyux/auth-client-factory": "1.2.0",
     "@skyux/icons": "6.3.0",
     "ag-grid-angular": "29.3.5",
-    "ag-grid-community": "29.3.5",
+    "ag-grid-community": "31.3.4",
     "autonumeric": "4.9.0",
     "axe-core": "4.6.3",
     "comment-json": "4.2.3",
